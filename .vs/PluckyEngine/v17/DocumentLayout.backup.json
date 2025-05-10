@@ -1,0 +1,47 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\PluckyEngine\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88633555-7FAF-4272-8A3A-03F947F03CC9}|PluckyEngine\\PluckyEngine.vcxproj|E:\\PluckyEngine\\PluckyEngine\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{88633555-7FAF-4272-8A3A-03F947F03CC9}|PluckyEngine\\PluckyEngine.vcxproj|solutionrelative:PluckyEngine\\glad.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1608,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "glad.c",
+              "DocumentMoniker": "E:\\PluckyEngine\\PluckyEngine\\glad.c",
+              "RelativeDocumentMoniker": "PluckyEngine\\glad.c",
+              "ToolTip": "E:\\PluckyEngine\\PluckyEngine\\glad.c",
+              "RelativeToolTip": "PluckyEngine\\glad.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-05-10T20:51:41.099Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1608,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{a80febb4-e7e0-4147-b476-21aaf2453969}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

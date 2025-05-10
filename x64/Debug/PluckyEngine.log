@@ -1,0 +1,7 @@
+﻿  WindowHandler.cpp
+H:\Plucky\PluckyEngine\libraries\include\GLFW\glfw3.h(1185,16): warning C4099: 'GLFWwindow': type name first seen using 'class' now seen using 'struct'
+  (compiling source file 'WindowHandler.cpp')
+      H:\Plucky\PluckyEngine\PluckyEngine\WindowHandler.h(5,7):
+      see declaration of 'GLFWwindow'
+  
+  PluckyEngine.vcxproj -> H:\Plucky\PluckyEngine\x64\Debug\PluckyEngine.exe
